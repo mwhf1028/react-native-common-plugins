@@ -1,0 +1,402 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:1:1-37:12
+INJECTED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:1:1-37:12
+INJECTED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:1:1-37:12
+INJECTED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:1:1-37:12
+MERGED from [:react-native-background-upload] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\react-native-background-upload\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-camera] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\react-native-camera\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-18:12
+MERGED from [:react-native-zip-archive] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\react-native-zip-archive\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-sound] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\react-native-sound\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-audio] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\react-native-audio\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
+MERGED from [:rn-fetch-blob] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-47:12
+MERGED from [:react-native-image-picker] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\react-native-image-picker\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-23:12
+MERGED from [com.facebook.react:react-native:0.58.6] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\react-native-0.58.6.aar\5b05f8e330569c0891252bfe38f60ebb\AndroidManifest.xml:2:1-15:12
+MERGED from [net.gotev:uploadservice-okhttp:3.4.2] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\uploadservice-okhttp-3.4.2.aar\529d4faaeba4599f82d663a6adbdc12e\AndroidManifest.xml:2:1-14:12
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\4e381b2841a426854a02fe9fb696383c\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ae31edeac6d1c988ba00b6ff78f70d21\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.2.aar\79119bfd9d512b42c7c1ca51e03f4494\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:exifinterface:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\exifinterface-28.0.0.aar\510a52bea85fd07b32f4b7bed6761eb5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.2.aar\775d06d126c698fffa5661978f67d3b7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\3e78c08f472b40865329e553d57c52e0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\4fe86a27bd7c16c711e5028413d4328e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\7569f7b0aae908da692bacaf8175e78e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f95e08b3524731c0c3c0b6af0a3261ed\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\9ec7154095a1b82477486f548e1731d0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\0238fd0fa818f7204bca2184db3c4e74\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\83a50e2937837a68ad9f9d8562577947\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b135d561e08063aff8bb4672ce5c5476\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\21d3541bf74b9db1badecc4a4af3c222\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8d3a0bcf4858d102962392bf7f29211d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\14caf177070140e50e8b038e9ae12926\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\3e8bfe1eb0a36b6cd0660ab1be73f69a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\1be4f49df86e39c3c3d96936c1e1b2e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3bda108924404bb974a15569fc79a3bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f5c24cba7ed3f7b2db76a4e636860b15\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\91e5fad8418ff7745d46e598602574b7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\126062e1c76352118c085bbfeaf4da9f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\3f50c67e64ac732594979797de199720\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\570ac204c383946bf04c14275cb066c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2a4dfa24bc2adde0e93f69073b72be5f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\6b5b6781a981c23da70af85bf1011067\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d5a1076e975c78613ac4fc6cb7e88dff\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c803a27e52f50135f991c385def9185a\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e408b81efcad502885bc1c3d201113c7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d57c1e7e95b61f0d8a28acff163fff56\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\098afc438f9e88378c2b2365fd87e043\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\97de16162380e12a9f0b1176b4165e0b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\bde37da6532267911e6a49e5b7b9239f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b7f50cc1194b531f3d63c786177648b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\543dc005393eed13276d0e5223dc44ad\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c9086ccaf63c60dda51191a264cd11e1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\08a71af26393a187c680dba7ebf390fb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\33b6cba09fa74d72303f19d7c611ca2e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\1b1e21f0efb96bbdf41d25814df22f72\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\0f8ac5f7ea6970a61164fc8ec39f83e5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\6c367caa06be5d4e100a65377a12e2aa\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\e204a060dec078e153309695bac41542\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\9422bb6cf4aaecbe73e8a9248a40b39d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\0127f06caa55575db8ae3115d5c8562c\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\fdcc96b17762cdab125127d3de896bb2\AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\b41d151daf85658ffe57621e894ba0f8\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:1:1-37:12
+INJECTED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:1:1-37:12
+INJECTED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:1:1-37:12
+	package
+		ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:2:3-23
+		INJECTED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:1:1-37:12
+		INJECTED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:1:1-37:12
+		INJECTED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [:rn-fetch-blob] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:15:5-67
+MERGED from [:rn-fetch-blob] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:15:5-67
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\4e381b2841a426854a02fe9fb696383c\AndroidManifest.xml:11:5-67
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\4e381b2841a426854a02fe9fb696383c\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.58.6] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\react-native-0.58.6.aar\5b05f8e330569c0891252bfe38f60ebb\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.58.6] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\react-native-0.58.6.aar\5b05f8e330569c0891252bfe38f60ebb\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:6:5-70
+	android:name
+		ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:7:5-80
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\4e381b2841a426854a02fe9fb696383c\AndroidManifest.xml:12:5-80
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\4e381b2841a426854a02fe9fb696383c\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:8:5-81
+MERGED from [:rn-fetch-blob] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:33:5-81
+MERGED from [:rn-fetch-blob] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:33:5-81
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\4e381b2841a426854a02fe9fb696383c\AndroidManifest.xml:13:5-81
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\4e381b2841a426854a02fe9fb696383c\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:9:5-65
+MERGED from [:react-native-camera] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\react-native-camera\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:9:5-65
+MERGED from [:react-native-camera] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\react-native-camera\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:9:22-62
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:10:5-88
+	android:name
+		ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:10:22-85
+uses-feature#android.hardware.camera
+ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:11:5-60
+MERGED from [:react-native-camera] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\react-native-camera\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-13:36
+MERGED from [:react-native-camera] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\react-native-camera\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-13:36
+	android:name
+		ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:11:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:12:5-69
+MERGED from [:react-native-camera] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\react-native-camera\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:14:5-16:36
+MERGED from [:react-native-camera] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\react-native-camera\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:14:5-16:36
+	android:name
+		ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:12:19-67
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:13:5-78
+MERGED from [:rn-fetch-blob] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:27:5-79
+MERGED from [:rn-fetch-blob] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:27:5-79
+	android:name
+		ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:14:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:15:5-68
+MERGED from [:rn-fetch-blob] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:21:5-68
+MERGED from [:rn-fetch-blob] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:21:5-68
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\4e381b2841a426854a02fe9fb696383c\AndroidManifest.xml:14:5-68
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\4e381b2841a426854a02fe9fb696383c\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:15:22-65
+application
+ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:17:5-35:19
+MERGED from [:rn-fetch-blob] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:35:5-45:19
+MERGED from [:rn-fetch-blob] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:35:5-45:19
+MERGED from [:react-native-image-picker] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\react-native-image-picker\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\react-native-image-picker\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.58.6] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\react-native-0.58.6.aar\5b05f8e330569c0891252bfe38f60ebb\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.58.6] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\react-native-0.58.6.aar\5b05f8e330569c0891252bfe38f60ebb\AndroidManifest.xml:13:5-20
+MERGED from [net.gotev:uploadservice-okhttp:3.4.2] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\uploadservice-okhttp-3.4.2.aar\529d4faaeba4599f82d663a6adbdc12e\AndroidManifest.xml:11:5-12:19
+MERGED from [net.gotev:uploadservice-okhttp:3.4.2] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\uploadservice-okhttp-3.4.2.aar\529d4faaeba4599f82d663a6adbdc12e\AndroidManifest.xml:11:5-12:19
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\4e381b2841a426854a02fe9fb696383c\AndroidManifest.xml:16:5-22:19
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\4e381b2841a426854a02fe9fb696383c\AndroidManifest.xml:16:5-22:19
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.2.aar\79119bfd9d512b42c7c1ca51e03f4494\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.2.aar\79119bfd9d512b42c7c1ca51e03f4494\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.2.aar\775d06d126c698fffa5661978f67d3b7\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.2.aar\775d06d126c698fffa5661978f67d3b7\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\3e78c08f472b40865329e553d57c52e0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\3e78c08f472b40865329e553d57c52e0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\7569f7b0aae908da692bacaf8175e78e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\7569f7b0aae908da692bacaf8175e78e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f95e08b3524731c0c3c0b6af0a3261ed\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f95e08b3524731c0c3c0b6af0a3261ed\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\9ec7154095a1b82477486f548e1731d0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\9ec7154095a1b82477486f548e1731d0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\0238fd0fa818f7204bca2184db3c4e74\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\0238fd0fa818f7204bca2184db3c4e74\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d5a1076e975c78613ac4fc6cb7e88dff\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d5a1076e975c78613ac4fc6cb7e88dff\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c803a27e52f50135f991c385def9185a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c803a27e52f50135f991c385def9185a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\0127f06caa55575db8ae3115d5c8562c\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\0127f06caa55575db8ae3115d5c8562c\AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\fdcc96b17762cdab125127d3de896bb2\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\fdcc96b17762cdab125127d3de896bb2\AndroidManifest.xml:2:3-17
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d5a1076e975c78613ac4fc6cb7e88dff\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:19:7-39
+	android:roundIcon
+		ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:21:7-52
+	android:icon
+		ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:20:7-41
+	android:allowBackup
+		ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:22:7-34
+	android:theme
+		ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:23:7-38
+	android:name
+		ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:18:7-38
+activity#com.plugin.MainActivity
+ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:24:7-33:18
+	android:label
+		ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:26:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:28:9-51
+	android:configChanges
+		ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:27:9-79
+	android:name
+		ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:25:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:29:9-32:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:30:13-65
+	android:name
+		ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:30:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:31:13-73
+	android:name
+		ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:31:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:34:7-84
+	android:name
+		ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:34:17-81
+uses-sdk
+INJECTED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-background-upload] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\react-native-background-upload\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-background-upload] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\react-native-background-upload\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-camera] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\react-native-camera\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\react-native-camera\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-zip-archive] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\react-native-zip-archive\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-zip-archive] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\react-native-zip-archive\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sound] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\react-native-sound\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-sound] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\react-native-sound\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-audio] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\react-native-audio\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-audio] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\react-native-audio\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\react-native-image-picker\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\react-native-image-picker\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.6] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\react-native-0.58.6.aar\5b05f8e330569c0891252bfe38f60ebb\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.6] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\react-native-0.58.6.aar\5b05f8e330569c0891252bfe38f60ebb\AndroidManifest.xml:7:5-9:41
+MERGED from [net.gotev:uploadservice-okhttp:3.4.2] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\uploadservice-okhttp-3.4.2.aar\529d4faaeba4599f82d663a6adbdc12e\AndroidManifest.xml:7:5-9:41
+MERGED from [net.gotev:uploadservice-okhttp:3.4.2] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\uploadservice-okhttp-3.4.2.aar\529d4faaeba4599f82d663a6adbdc12e\AndroidManifest.xml:7:5-9:41
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\4e381b2841a426854a02fe9fb696383c\AndroidManifest.xml:7:5-9:41
+MERGED from [net.gotev:uploadservice:3.4.2] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\4e381b2841a426854a02fe9fb696383c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ae31edeac6d1c988ba00b6ff78f70d21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ae31edeac6d1c988ba00b6ff78f70d21\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.2.aar\79119bfd9d512b42c7c1ca51e03f4494\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.2.aar\79119bfd9d512b42c7c1ca51e03f4494\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:exifinterface:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\exifinterface-28.0.0.aar\510a52bea85fd07b32f4b7bed6761eb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\exifinterface-28.0.0.aar\510a52bea85fd07b32f4b7bed6761eb5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.2.aar\775d06d126c698fffa5661978f67d3b7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.2.aar\775d06d126c698fffa5661978f67d3b7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\3e78c08f472b40865329e553d57c52e0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\3e78c08f472b40865329e553d57c52e0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\4fe86a27bd7c16c711e5028413d4328e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\4fe86a27bd7c16c711e5028413d4328e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\7569f7b0aae908da692bacaf8175e78e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\7569f7b0aae908da692bacaf8175e78e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f95e08b3524731c0c3c0b6af0a3261ed\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f95e08b3524731c0c3c0b6af0a3261ed\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\9ec7154095a1b82477486f548e1731d0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\9ec7154095a1b82477486f548e1731d0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\0238fd0fa818f7204bca2184db3c4e74\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\0238fd0fa818f7204bca2184db3c4e74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\83a50e2937837a68ad9f9d8562577947\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\83a50e2937837a68ad9f9d8562577947\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b135d561e08063aff8bb4672ce5c5476\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b135d561e08063aff8bb4672ce5c5476\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\21d3541bf74b9db1badecc4a4af3c222\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\21d3541bf74b9db1badecc4a4af3c222\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8d3a0bcf4858d102962392bf7f29211d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8d3a0bcf4858d102962392bf7f29211d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\14caf177070140e50e8b038e9ae12926\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\14caf177070140e50e8b038e9ae12926\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\3e8bfe1eb0a36b6cd0660ab1be73f69a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\3e8bfe1eb0a36b6cd0660ab1be73f69a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\1be4f49df86e39c3c3d96936c1e1b2e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\1be4f49df86e39c3c3d96936c1e1b2e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3bda108924404bb974a15569fc79a3bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3bda108924404bb974a15569fc79a3bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f5c24cba7ed3f7b2db76a4e636860b15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f5c24cba7ed3f7b2db76a4e636860b15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\91e5fad8418ff7745d46e598602574b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\91e5fad8418ff7745d46e598602574b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\126062e1c76352118c085bbfeaf4da9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\126062e1c76352118c085bbfeaf4da9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\3f50c67e64ac732594979797de199720\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\3f50c67e64ac732594979797de199720\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\570ac204c383946bf04c14275cb066c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\570ac204c383946bf04c14275cb066c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2a4dfa24bc2adde0e93f69073b72be5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2a4dfa24bc2adde0e93f69073b72be5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\6b5b6781a981c23da70af85bf1011067\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\6b5b6781a981c23da70af85bf1011067\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d5a1076e975c78613ac4fc6cb7e88dff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d5a1076e975c78613ac4fc6cb7e88dff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c803a27e52f50135f991c385def9185a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c803a27e52f50135f991c385def9185a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e408b81efcad502885bc1c3d201113c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e408b81efcad502885bc1c3d201113c7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d57c1e7e95b61f0d8a28acff163fff56\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d57c1e7e95b61f0d8a28acff163fff56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\098afc438f9e88378c2b2365fd87e043\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\098afc438f9e88378c2b2365fd87e043\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\97de16162380e12a9f0b1176b4165e0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\97de16162380e12a9f0b1176b4165e0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\bde37da6532267911e6a49e5b7b9239f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\bde37da6532267911e6a49e5b7b9239f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b7f50cc1194b531f3d63c786177648b1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b7f50cc1194b531f3d63c786177648b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\543dc005393eed13276d0e5223dc44ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\543dc005393eed13276d0e5223dc44ad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c9086ccaf63c60dda51191a264cd11e1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c9086ccaf63c60dda51191a264cd11e1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\08a71af26393a187c680dba7ebf390fb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\08a71af26393a187c680dba7ebf390fb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\33b6cba09fa74d72303f19d7c611ca2e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\33b6cba09fa74d72303f19d7c611ca2e\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\1b1e21f0efb96bbdf41d25814df22f72\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\1b1e21f0efb96bbdf41d25814df22f72\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\0f8ac5f7ea6970a61164fc8ec39f83e5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\0f8ac5f7ea6970a61164fc8ec39f83e5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\6c367caa06be5d4e100a65377a12e2aa\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\6c367caa06be5d4e100a65377a12e2aa\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\e204a060dec078e153309695bac41542\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\e204a060dec078e153309695bac41542\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\9422bb6cf4aaecbe73e8a9248a40b39d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\9422bb6cf4aaecbe73e8a9248a40b39d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\0127f06caa55575db8ae3115d5c8562c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\0127f06caa55575db8ae3115d5c8562c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\b41d151daf85658ffe57621e894ba0f8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\b41d151daf85658ffe57621e894ba0f8\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from [:rn-fetch-blob] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from [:rn-fetch-blob] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:12:22-70
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:rn-fetch-blob] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from [:rn-fetch-blob] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:30:22-73
+provider#android.support.v4.content.FileProvider
+ADDED from [:rn-fetch-blob] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:36:9-44:20
+	android:grantUriPermissions
+		ADDED from [:rn-fetch-blob] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:40:13-47
+	android:authorities
+		ADDED from [:rn-fetch-blob] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:38:13-60
+	android:exported
+		ADDED from [:rn-fetch-blob] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [:rn-fetch-blob] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:37:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:rn-fetch-blob] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:41:13-43:58
+	android:resource
+		ADDED from [:rn-fetch-blob] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:43:17-55
+	android:name
+		ADDED from [:rn-fetch-blob] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:42:17-67
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\react-native-image-picker\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\react-native-image-picker\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\react-native-image-picker\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:14:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\react-native-image-picker\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\node_modules\react-native-image-picker\android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:13:13-56
+service#net.gotev.uploadservice.UploadService
+ADDED from [net.gotev:uploadservice:3.4.2] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\4e381b2841a426854a02fe9fb696383c\AndroidManifest.xml:17:9-21:19
+	android:enabled
+		ADDED from [net.gotev:uploadservice:3.4.2] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\4e381b2841a426854a02fe9fb696383c\AndroidManifest.xml:19:13-35
+	android:exported
+		ADDED from [net.gotev:uploadservice:3.4.2] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\4e381b2841a426854a02fe9fb696383c\AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from [net.gotev:uploadservice:3.4.2] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\uploadservice-3.4.2.aar\4e381b2841a426854a02fe9fb696383c\AndroidManifest.xml:18:13-65
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f95e08b3524731c0c3c0b6af0a3261ed\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f95e08b3524731c0c3c0b6af0a3261ed\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f95e08b3524731c0c3c0b6af0a3261ed\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f95e08b3524731c0c3c0b6af0a3261ed\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\0238fd0fa818f7204bca2184db3c4e74\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\0238fd0fa818f7204bca2184db3c4e74\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\12608\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\0238fd0fa818f7204bca2184db3c4e74\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\12608\Desktop\plugin\react-native-common-plugins\react-native-common-plugins\android\app\src\main\AndroidManifest.xml:1:1-37:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4

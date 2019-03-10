@@ -3,6 +3,7 @@ package com.plugin;
 import android.app.Application;
 
 import com.facebook.react.ReactApplication;
+import fr.greweb.reactnativeviewshot.RNViewShotPackage;
 import com.rnziparchive.RNZipArchivePackage;
 import com.zmxv.RNSound.RNSoundPackage;
 import com.rnim.rn.audio.ReactNativeAudioPackage;
@@ -15,6 +16,8 @@ import com.facebook.react.shell.MainReactPackage;
 import com.facebook.soloader.SoLoader;
 import org.reactnative.camera.RNCameraPackage;
 import com.vydia.RNUploader.UploaderReactPackage;
+import org.pgsqlite.SQLitePluginPackage;
+import com.rnfs.RNFSPackage;
 
 import java.util.Arrays;
 import java.util.List;
@@ -31,13 +34,16 @@ public class MainApplication extends Application implements ReactApplication {
     protected List<ReactPackage> getPackages() {
       return Arrays.<ReactPackage>asList(
           new MainReactPackage(),
+            new RNViewShotPackage(),
             new RNZipArchivePackage(),
             new RNSoundPackage(),
             new ReactNativeAudioPackage(),
             new RNFetchBlobPackage(),
             new RNCameraPackage(),
             new ImagePickerPackage(),
-            new UploaderReactPackage()
+            new UploaderReactPackage(),
+            new SQLitePluginPackage(),
+            new RNFSPackage()
       );
     }
 

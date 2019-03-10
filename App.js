@@ -21,7 +21,11 @@ import Zip from './src/zip'
 import WebRTC from './src/webRTC'
 import Share from './src/share'
 import NativeFunction from './src/reactNativeFunction'
-
+import ScreenShot from './src/screenShot'
+import PlayVideo from './src/playVideo'
+import Sql from './src/Sql'
+import PushNotification from './src/pushNotification'
+import Fs from './src/fileSystem'
 
 
 type Props = {};
@@ -37,10 +41,18 @@ export default class App extends Component<Props> {
         {/*<RecordAudio />*/}
         {/*<BackgroundUpload/>*/}
         {/*<Zip />*/}
-        <NativeFunction />
-        {/*<Text>haven't done yet</Text>*/}
+        {/*<NativeFunction />*/}
+        {/*<ScreenShot />*/}
+        {/*<Sql />*/}
+        <Fs />
+
+        {/*<Text>wait to link</Text>*/}
+        {/*<PlayVideo />*/}
         {/*<Share />*/}
         {/*<WebRTC/>*/}
+
+        {/*<Text>need websocket</Text>*/}
+        {/*<PushNotification />*/}
       </View>
     );
   }

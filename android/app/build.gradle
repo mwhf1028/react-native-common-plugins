@@ -104,6 +104,7 @@ android {
         versionCode 1
         versionName "1.0"
     }
+    
     splits {
         abi {
             reset()
@@ -134,6 +135,9 @@ android {
 }
 
 dependencies {
+    compile project(':react-native-fs')
+    implementation project(':react-native-sqlite-storage')
+    implementation project(':react-native-view-shot')
     implementation project(':react-native-zip-archive')
     compile project(':react-native-background-upload')
     implementation project(':react-native-sound')

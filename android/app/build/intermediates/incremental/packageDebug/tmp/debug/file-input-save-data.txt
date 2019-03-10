@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Mar 08 13:33:13 CST 2019
+#Fri Mar 08 17:40:58 CST 2019
 5.base=C\:\\Users\\12608\\Desktop\\plugin\\react-native-common-plugins\\react-native-common-plugins\\android\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
 42.base=C\:\\Users\\12608\\Desktop\\plugin\\react-native-common-plugins\\react-native-common-plugins\\android\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
 22.path=lib/x86/libyoga.so

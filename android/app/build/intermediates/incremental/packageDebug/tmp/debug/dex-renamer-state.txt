@@ -1,4 +1,4 @@
-#Fri Mar 08 17:40:56 CST 2019
+#Sun Mar 10 15:53:58 CST 2019
 base.0=C\:\\Users\\12608\\Desktop\\plugin\\react-native-common-plugins\\react-native-common-plugins\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex

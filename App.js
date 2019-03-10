@@ -26,8 +26,6 @@ import PlayVideo from './src/playVideo'
 import Sql from './src/Sql'
 import PushNotification from './src/pushNotification'
 import Fs from './src/fileSystem'
-
-
 type Props = {};
 export default class App extends Component<Props> {
   render() {
@@ -44,15 +42,15 @@ export default class App extends Component<Props> {
         {/*<NativeFunction />*/}
         {/*<ScreenShot />*/}
         {/*<Sql />*/}
-        <Fs />
-
-        {/*<Text>wait to link</Text>*/}
+        {/*<Fs />*/}
         {/*<PlayVideo />*/}
         {/*<Share />*/}
+        {/*<PushNotification />*/}
+
+        <Text>wait to link</Text>
         {/*<WebRTC/>*/}
 
         {/*<Text>need websocket</Text>*/}
-        {/*<PushNotification />*/}
       </View>
     );
   }

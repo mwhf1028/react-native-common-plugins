@@ -3,6 +3,9 @@ package com.plugin;
 import android.app.Application;
 
 import com.facebook.react.ReactApplication;
+import com.dieam.reactnativepushnotification.ReactNativePushNotificationPackage;
+import cl.json.RNSharePackage;
+import com.brentvatne.react.ReactVideoPackage;
 import fr.greweb.reactnativeviewshot.RNViewShotPackage;
 import com.rnziparchive.RNZipArchivePackage;
 import com.zmxv.RNSound.RNSoundPackage;
@@ -34,6 +37,9 @@ public class MainApplication extends Application implements ReactApplication {
     protected List<ReactPackage> getPackages() {
       return Arrays.<ReactPackage>asList(
           new MainReactPackage(),
+            new ReactNativePushNotificationPackage(),
+            new RNSharePackage(),
+            new ReactVideoPackage(),
             new RNViewShotPackage(),
             new RNZipArchivePackage(),
             new RNSoundPackage(),

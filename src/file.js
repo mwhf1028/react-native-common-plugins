@@ -9,8 +9,6 @@ import {
     Image,
     TouchableOpacity
 } from 'react-native';
-import {AudioRecorder, AudioUtils} from 'react-native-audio';
-let audioPath = AudioUtils.DocumentDirectoryPath + '/test.aac';
 
 
 export default class ChooseImage extends Component {

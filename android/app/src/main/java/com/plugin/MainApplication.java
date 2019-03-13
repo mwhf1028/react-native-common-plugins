@@ -21,6 +21,7 @@ import org.reactnative.camera.RNCameraPackage;
 import com.vydia.RNUploader.UploaderReactPackage;
 import org.pgsqlite.SQLitePluginPackage;
 import com.rnfs.RNFSPackage;
+import com.oney.WebRTCModule.WebRTCModulePackage;
 
 import java.util.Arrays;
 import java.util.List;
@@ -49,7 +50,8 @@ public class MainApplication extends Application implements ReactApplication {
             new ImagePickerPackage(),
             new UploaderReactPackage(),
             new SQLitePluginPackage(),
-            new RNFSPackage()
+            new RNFSPackage(),
+            new WebRTCModulePackage()
       );
     }
 

@@ -26,6 +26,7 @@ import PlayVideo from './src/playVideo'
 import Sql from './src/Sql'
 import PushNotification from './src/pushNotification'
 import Fs from './src/fileSystem'
+import Test from './src/test'
 type Props = {};
 export default class App extends Component<Props> {
   render() {
@@ -47,10 +48,10 @@ export default class App extends Component<Props> {
         {/*<Share />*/}
         {/*<PushNotification />*/}
 
-        <Text>wait to link</Text>
+        {/*<Text>wait to link</Text>*/}
         {/*<WebRTC/>*/}
 
-        {/*<Text>need websocket</Text>*/}
+          <Test />
       </View>
     );
   }
